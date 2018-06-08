@@ -1,0 +1,10 @@
+H:\Labs\lab25_starfighter\Alien.java
+H:\Labs\lab25_starfighter\AlienHorde.java
+H:\Labs\lab25_starfighter\Ammo.java
+H:\Labs\lab25_starfighter\Bullets.java
+H:\Labs\lab25_starfighter\Moveable.java
+H:\Labs\lab25_starfighter\MovingThing.java
+H:\Labs\lab25_starfighter\OuterSpace.java
+H:\Labs\lab25_starfighter\Ship.java
+H:\Labs\lab25_starfighter\Shiptest.java
+H:\Labs\lab25_starfighter\StarFighter.java
